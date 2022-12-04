@@ -26,7 +26,7 @@ $ git clone https://github.com/marpit19/Stocks-and-Crypto-Research.git
 # Go into the repository
 $ cd Stocks-and-Crypto-Research
 
-# Install dependencies
+# Run the script
 $ python main.py
 
 ```
